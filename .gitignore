@@ -12,3 +12,6 @@ Cargo.lock
 pyvenv.cfg
 bin/
 lib/
+etc/
+share/
+nohup.out
